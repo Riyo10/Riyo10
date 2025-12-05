@@ -56,9 +56,9 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=riyo10&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=riyo10&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/riyo10/github-stats/main/stats.svg" alt="GitHub Stats" />
+    &nbsp;
+  <img src="https://raw.githubusercontent.com/riyo10/github-stats/main/top-langs.svg" alt="Top Languages" />
   &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=riyo10" alt="GitHub Streak" />
 </p>
