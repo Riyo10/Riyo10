@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Supriyo</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=riyo10&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+</p> -->
 
 ---
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/Riyo10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Riyo10" height="30" width="40" /></a>
+<!-- <a href="https://github.com/Riyo10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Riyo10" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/maitysupriyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maitysupriyo" height="30" width="40" /></a>
 <a href="https://instagram.com/supriyomaity10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supriyomaity10" height="30" width="40" /></a>
 <a href="https://twitter.com/riyo369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="riyo369" height="30" width="40" /></a>
