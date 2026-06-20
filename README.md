@@ -14,7 +14,7 @@
 ---
 
 ### 🌐 Executive Summary
-As the Managing Director and CEO of **MaityOS**, but also developer from heart. I oversee our engineering direction and product architecture. We focus strictly on building proprietary, high-performance local products rather than standard consumer SaaS or client services. My work centers on native runtime efficiency, low-level system monitors, and clean desktop integrations.
+As the Managing Director and CEO of **MaityOS**, but also developer from heart. I oversee our engineering direction and product architecture. We focus strictly on building proprietary, high-performance Softwares. My work centers on native runtime efficiency, low-level system monitors, and clean desktop integrations.
 
 - 🛠️ **Active Engineering:** Developing our core operating system shell and refining local-first desktop frameworks.
 - 📦 **Architecture Philosophy:** Local-first data structures, native system performance, and strict engineering standards (Zero `any` in production TypeScript).
