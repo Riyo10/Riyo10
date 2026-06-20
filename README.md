@@ -17,7 +17,7 @@
 As the Managing Director and CEO of **MaityOS**, but also developer from heart. I oversee our engineering direction and product architecture. We focus strictly on building proprietary, high-performance Softwares. My work centers on native runtime efficiency, low-level system monitors, and clean desktop integrations.
 
 - 🛠️ **Active Engineering:** Developing our core operating system shell and refining local-first desktop frameworks.
-- 📦 **Architecture Philosophy:** Local-first data structures, native system performance, and strict engineering standards (Zero `any` in production TypeScript).
+- 📦 **Architecture Philosophy:** Modern system architecture, native system performance, and strict engineering standards.
 - 📡 **Connect:** Explore our engineering ecosystem or review current builds at [supriyo-ten.vercel.app](https://supriyo-ten.vercel.app/).
 
 ---
