@@ -1,7 +1,6 @@
 <h1 align="center">Supriyo Maity</h1>
 <p align="center">
   <strong>Founder, MaityOS Private Limited</strong><br>
-  Software Architect specializing in local-first desktop environments and proprietary system shell architectures.
 </p>
 
 <p align="center">
