@@ -1,6 +1,6 @@
 <h1 align="center">Supriyo Maity</h1>
 <p align="center">
-  <strong>Founder & CEO, MaityOS Private Limited</strong><br>
+  <strong>Founder, MaityOS Private Limited</strong><br>
   Software Architect specializing in local-first desktop environments and proprietary system shell architectures.
 </p>
 
@@ -8,6 +8,7 @@
   <a href="https://linkedin.com/in/maitysupriyo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://leetcode.com/supriyomaity10" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="https://twitter.com/riyo369" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://instagram.com/supriyomaity10" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ---
